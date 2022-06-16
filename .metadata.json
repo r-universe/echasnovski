@@ -1,0 +1,22 @@
+[
+  {
+    "package": "comperank",
+    "oncran": true
+  },
+  {
+    "package": "comperes",
+    "oncran": true
+  },
+  {
+    "package": "keyholder",
+    "oncran": true
+  },
+  {
+    "package": "pdqr",
+    "oncran": true
+  },
+  {
+    "package": "ruler",
+    "oncran": true
+  }
+]
