@@ -1,6 +1,10 @@
 [
   {
-    "package": "comperank",
+    "package": "ruler",
+    "oncran": true
+  },
+  {
+    "package": "pdqr",
     "oncran": true
   },
   {
@@ -12,11 +16,7 @@
     "oncran": true
   },
   {
-    "package": "pdqr",
-    "oncran": true
-  },
-  {
-    "package": "ruler",
+    "package": "comperank",
     "oncran": true
   }
 ]
